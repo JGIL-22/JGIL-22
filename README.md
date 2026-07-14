@@ -3,10 +3,7 @@
 **AI Enthusiast · Cloud Builder · Open Source Explorer**
 
 <div align="center">
-  <h3>🎮 Interactive Tetris Game</h3>
-  <p><strong><a href="tetris-preview.html">👉 See Moving Tetris Demo - Click to Play</a></strong></p>
-  <p><em>Watch the auto-playing preview, then click to play the full game!</em></p>
-  <p><em>Controls: Arrow Keys to Move/Rotate, Space to Drop</em></p>
+  <img src="Sources/Images/Star Wars Space GIF by Feliks Tomasz Konczakowski.gif" alt="Star Wars Space" style="max-width:100%;height:auto;border-radius:8px;box-shadow:0 4px 12px rgba(0,0,0,0.3);" />
 </div>
 
 [![Followers](https://img.shields.io/github/followers/JGIL-22?label=Followers&style=social)](https://github.com/JGIL-22)
