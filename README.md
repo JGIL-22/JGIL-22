@@ -2,9 +2,13 @@
 
 **AI Enthusiast · Cloud Builder · Open Source Explorer**
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/JGIL-22/JGIL-22/main/Sources/Images/Tech%20space.gif" alt="Tech Space" style="width:100%;max-width:1200px;height:auto;border-radius:8px;box-shadow:0 4px 12px rgba(0,0,0,0.3);" />
-</div>
+<table width="100%">
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/JGIL-22/JGIL-22/main/Sources/Images/Tech%20space.gif" alt="Tech Space" width="100%" style="border-radius:8px;box-shadow:0 4px 12px rgba(0,0,0,0.3);" />
+    </td>
+  </tr>
+</table>
 
 [![Followers](https://img.shields.io/github/followers/JGIL-22?label=Followers&style=social)](https://github.com/JGIL-22)
 [![Stargazers](https://img.shields.io/github/stars/JGIL-22?style=social)](https://github.com/JGIL-22?tab=stars)
