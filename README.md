@@ -3,7 +3,7 @@
 **AI Enthusiast · Cloud Builder · Open Source Explorer**
 
 <div align="center">
-  <img src="Sources/Images/Star Wars Space GIF by Feliks Tomasz Konczakowski.gif" alt="Star Wars Space" style="max-width:100%;height:auto;border-radius:8px;box-shadow:0 4px 12px rgba(0,0,0,0.3);" />
+  <img src="https://raw.githubusercontent.com/JGIL-22/JGIL-22/main/Sources/Images/Star%20Wars%20Space%20GIF%20by%20Feliks%20Tomasz%20Konczakowski.gif" alt="Star Wars Space" style="max-width:100%;height:auto;border-radius:8px;box-shadow:0 4px 12px rgba(0,0,0,0.3);" />
 </div>
 
 [![Followers](https://img.shields.io/github/followers/JGIL-22?label=Followers&style=social)](https://github.com/JGIL-22)
