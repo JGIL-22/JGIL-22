@@ -62,6 +62,7 @@ I build practical software, cloud infrastructure, and developer-focused experien
 	<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
 	<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
 	<img src="https://img.shields.io/badge/REST_API-464646?style=flat-square" />
+	<img src="https://img.shields.io/badge/OAuth%202.0-3C3B37?style=flat-square&logo=oauth&logoColor=white" />
 </p>
 
 ### Tools & Platforms
