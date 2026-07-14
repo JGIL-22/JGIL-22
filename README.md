@@ -77,21 +77,33 @@ I build practical software, cloud infrastructure, and developer-focused experien
 	<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
 	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
 	<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+	<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
 	<img src="https://img.shields.io/badge/Formspree-FF4785?style=flat-square" />
 	<img src="https://img.shields.io/badge/n8n-27272F?style=flat-square" />
 </p>
 
-### Databases & Storage
+### UI / UX Design
 
-- MySQL · PostgreSQL · MongoDB · Firebase · SupaBase
-
-### UI / UX
-
-- Responsive Web Design · Dark Mode & Color Theming · UI Animations · User-Centered Design · 3D Animation
+<p>
+	<img src="https://img.shields.io/badge/Responsive%20Design-4285F4?style=flat-square" />
+	<img src="https://img.shields.io/badge/Dark%20Mode-1A1A2E?style=flat-square&logo=javascript&logoColor=white" />
+	<img src="https://img.shields.io/badge/Color%20Theming-FF6B6B?style=flat-square" />
+	<img src="https://img.shields.io/badge/UI%20Animations-9B59B6?style=flat-square" />
+	<img src="https://img.shields.io/badge/User%20Centered-26A69A?style=flat-square" />
+	<img src="https://img.shields.io/badge/3D%20Animation-FF8C42?style=flat-square" />
+</p>
 
 ### Other Tools & Services
 
-- Google App Script · Jira · Trello · Canva · Lucidchart · Google Workspace · Microsoft Office 365
+<p>
+	<img src="https://img.shields.io/badge/Google%20Apps-4285F4?style=flat-square&logo=google&logoColor=white" />
+	<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
+	<img src="https://img.shields.io/badge/Trello-0079BF?style=flat-square&logo=trello&logoColor=white" />
+	<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" />
+	<img src="https://img.shields.io/badge/Lucidchart-EA5130?style=flat-square&logo=lucidchart&logoColor=white" />
+	<img src="https://img.shields.io/badge/Google%20Workspace-4285F4?style=flat-square&logo=google&logoColor=white" />
+	<img src="https://img.shields.io/badge/Microsoft%20365-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
+</p>
 
 ---
 
