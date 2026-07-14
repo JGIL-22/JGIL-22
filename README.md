@@ -2,9 +2,11 @@
 
 **AI Enthusiast · Cloud Builder · Open Source Explorer**
 
-<p align="center">
-	<img src="Sources/GIF/JOHN GIL HERO BANNER GITHUB.gif" alt="John Gil Mayor - Hero" style="max-width:100%;height:auto;" />
-</p>
+<div align="center">
+  <h3>🎮 Interactive Tetris Game</h3>
+  <p><a href="tetris.html"><strong>▶️ Play Tetris</strong></a> - Built with HTML5 Canvas & JavaScript</p>
+  <p><em>Controls: Arrow Keys to Move/Rotate, Space to Drop</em></p>
+</div>
 
 [![Followers](https://img.shields.io/github/followers/JGIL-22?label=Followers&style=social)](https://github.com/JGIL-22)
 [![Stargazers](https://img.shields.io/github/stars/JGIL-22?style=social)](https://github.com/JGIL-22?tab=stars)
