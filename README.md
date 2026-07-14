@@ -16,7 +16,7 @@
 </div>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?lines=Web+%26+Full-Stack+Development;Cybersecurity;Cloud+Technology;Project+Management&font=Fira+Code&center=true&width=600&height=60&cursor=true" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?lines=Web+%26+Full-Stack+Development;Cybersecurity;Cloud+Technology;Project+Management&font=Fira+Code&center=true&width=600&height=70&color=00D9FF&size=24&duration=3000&pause=1000&vCenter=true&cursor=true" alt="Typing animation" />
 </p>
 
 ---
