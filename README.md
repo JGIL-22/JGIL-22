@@ -2,10 +2,16 @@
 
 **AI Enthusiast · Cloud Builder · Open Source Explorer**
 
+[![Followers](https://img.shields.io/github/followers/JGIL-22?label=Followers&style=social)](https://github.com/JGIL-22)
+[![Stargazers](https://img.shields.io/github/stars/JGIL-22?style=social)](https://github.com/JGIL-22?tab=stars)
+[![Repositories](https://img.shields.io/badge/Repo%20size--/--?label=Repo%20size&color=blue)](#)
 [![Website](https://img.shields.io/badge/website-your-portfolio-blue)](#)
 [![LinkedIn](https://img.shields.io/badge/linkedin-yourprofile-blue)](#)
-[![GitHub](https://img.shields.io/badge/github-JGIL--22-black)](#)
 [![Email](https://img.shields.io/badge/email-you%40example.com-red)](#)
+
+<p align="left">
+	<img src="https://github-profile-trophy.vercel.app/?username=JGIL-22&theme=dark&no-frame=true&row=1&column=7" alt="trophies"/>
+</p>
 
 ---
 
@@ -69,3 +75,18 @@ I build practical software, cloud infrastructure, and developer-focused experien
 ## GitHub Stats
 
 ![John Gil Mayor's GitHub stats](https://github-readme-stats.vercel.app/api?username=JGIL-22&show_icons=true&theme=dark)
+
+<!-- Top languages and compact stats -->
+
+<table><tr>
+<td valign="top">
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JGIL-22&layout=compact&theme=dark)
+
+</td>
+<td valign="top">
+
+![Compact stats](https://github-readme-stats.vercel.app/api?username=JGIL-22&show_icons=true&theme=dark&count_private=true)
+
+</td>
+</tr></table>
