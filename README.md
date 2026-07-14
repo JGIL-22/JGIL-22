@@ -11,9 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-yourprofile-blue)](#)
 [![Email](https://img.shields.io/badge/email-you%40example.com-red)](#)
 
-<p align="left">
-	<img src="https://github-profile-trophy.vercel.app/?username=JGIL-22&theme=dark&no-frame=true&row=1&column=7" alt="trophies"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?lines=Web+%26+Full-Stack+Development;Cybersecurity;Cloud+Technology;Project+Management&font=Fira+Code&center=true&width=600&height=60" alt="Typing animation" />
 
 ---
 
