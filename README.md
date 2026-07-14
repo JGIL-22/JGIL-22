@@ -55,6 +55,8 @@ I build practical software, cloud infrastructure, and developer-focused experien
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 	<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+	<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+	<img src="https://img.shields.io/badge/Rust-CE422B?style=flat-square&logo=rust&logoColor=white" />
 </p>
 
 ### Backend & APIs
@@ -106,6 +108,20 @@ I build practical software, cloud infrastructure, and developer-focused experien
 	<img src="https://img.shields.io/badge/Lucidchart-EA5130?style=flat-square&logo=lucidchart&logoColor=white" />
 	<img src="https://img.shields.io/badge/Google%20Workspace-4285F4?style=flat-square&logo=google&logoColor=white" />
 	<img src="https://img.shields.io/badge/Microsoft%20365-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
+</p>
+
+### AI Tools
+
+<p>
+	<img src="https://img.shields.io/badge/Gemini-8E75B6?style=flat-square&logo=google&logoColor=white" />
+	<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white" />
+	<img src="https://img.shields.io/badge/Claude-1e1e1e?style=flat-square&logo=anthropic&logoColor=white" />
+	<img src="https://img.shields.io/badge/Kiro-FF6B9D?style=flat-square" />
+	<img src="https://img.shields.io/badge/Cursor-00D9FF?style=flat-square&logo=cursor&logoColor=black" />
+	<img src="https://img.shields.io/badge/CoPilot-010101?style=flat-square&logo=github&logoColor=white" />
+	<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
+	<img src="https://img.shields.io/badge/DeepSeek-6B21A8?style=flat-square" />
+	<img src="https://img.shields.io/badge/Devin-FF6B35?style=flat-square" />
 </p>
 
 ---
