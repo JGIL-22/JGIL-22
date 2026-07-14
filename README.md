@@ -4,7 +4,8 @@
 
 <div align="center">
   <h3>🎮 Interactive Tetris Game</h3>
-  <p><a href="tetris.html"><strong>▶️ Play Tetris</strong></a> - Built with HTML5 Canvas & JavaScript</p>
+  <p><strong><a href="tetris-preview.html">👉 See Moving Tetris Demo - Click to Play</a></strong></p>
+  <p><em>Watch the auto-playing preview, then click to play the full game!</em></p>
   <p><em>Controls: Arrow Keys to Move/Rotate, Space to Drop</em></p>
 </div>
 
