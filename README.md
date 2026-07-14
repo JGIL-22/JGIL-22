@@ -13,6 +13,13 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-yourprofile-blue)](#)
 [![Email](https://img.shields.io/badge/email-you%40example.com-red)](#)
 
+<p>
+	<a href="https://facebook.com/yourusername"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+	<a href="https://instagram.com/yourusername"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+	<a href="https://discord.gg/yourinvite"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+	<a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
+
 </div>
 
 <p align="center">
@@ -126,6 +133,8 @@ I build practical software, cloud infrastructure, and developer-focused experien
 
 ---
 
+
+
 ## Highlights
 
 - Building clean, real-world engineering solutions
@@ -134,38 +143,3 @@ I build practical software, cloud infrastructure, and developer-focused experien
 - Growing skills in AI, infrastructure, and platform design
 
 ---
-
-## Connect with Me
-
-<p>
-	<a href="https://facebook.com/yourusername"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
-	<a href="https://instagram.com/yourusername"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-	<a href="https://discord.gg/yourinvite"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
-	<a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-</p>
-
-- Portfolio: [your-website.com](https://your-website.com)
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- GitHub: [github.com/JGIL-22](https://github.com/JGIL-22)
-- Email: [you@example.com](mailto:you@example.com)
-
----
-
-## GitHub Stats
-
-![John Gil Mayor's GitHub stats](https://github-readme-stats.vercel.app/api?username=JGIL-22&show_icons=true&theme=dark)
-
-<!-- Top languages and compact stats -->
-
-<table><tr>
-<td valign="top">
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JGIL-22&layout=compact&theme=dark)
-
-</td>
-<td valign="top">
-
-![Compact stats](https://github-readme-stats.vercel.app/api?username=JGIL-22&show_icons=true&theme=dark&count_private=true)
-
-</td>
-</tr></table>
