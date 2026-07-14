@@ -4,14 +4,16 @@
 
 <img src="https://raw.githubusercontent.com/JGIL-22/JGIL-22/main/Sources/Images/Milky%20Way.gif" alt="Milky Way" width="100%" style="border-radius:8px;box-shadow:0 4px 12px rgba(0,0,0,0.3);display:block;" />
 
-<p align="center">
+<div align="center">
+
 [![Followers](https://img.shields.io/github/followers/JGIL-22?label=Followers&style=social)](https://github.com/JGIL-22)
 [![Stargazers](https://img.shields.io/github/stars/JGIL-22?style=social)](https://github.com/JGIL-22?tab=stars)
 [![Repositories](https://img.shields.io/badge/Repo%20size--/--?label=Repo%20size&color=blue)](#)
 [![Website](https://img.shields.io/badge/website-your-portfolio-blue)](#)
 [![LinkedIn](https://img.shields.io/badge/linkedin-yourprofile-blue)](#)
 [![Email](https://img.shields.io/badge/email-you%40example.com-red)](#)
-</p>
+
+</div>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?lines=Web+%26+Full-Stack+Development;Cybersecurity;Cloud+Technology;Project+Management&font=Fira+Code&center=true&width=600&height=60&cursor=true" alt="Typing animation" />
