@@ -8,6 +8,7 @@
 
 [![Followers](https://img.shields.io/github/followers/JGIL-22?label=Followers&style=social)](https://github.com/JGIL-22)
 [![Stargazers](https://img.shields.io/github/stars/JGIL-22?style=social)](https://github.com/JGIL-22?tab=stars)
+[![Profile Visits](https://komarev.com/ghpvc/?username=JGIL-22&label=Profile%20Visits&color=brightgreen)](https://github.com/JGIL-22)
 
 <p>
 	<a href="https://facebook.com/JgTrek"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
